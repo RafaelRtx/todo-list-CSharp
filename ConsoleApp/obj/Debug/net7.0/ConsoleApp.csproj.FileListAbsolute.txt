@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\C# Coding\C# code\ConsoleApp\obj\Debug\net7.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\C# Coding\C# code\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\C# Coding\C# code\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\C# Coding\C# code\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\C# Coding\C# code\ConsoleApp\bin\Debug\net7.0\ConsoleApp.exe
+C:\Users\Rafael\Desktop\C# Coding\C# code\ConsoleApp\bin\Debug\net7.0\ConsoleApp.deps.json
+C:\Users\Rafael\Desktop\C# Coding\C# code\ConsoleApp\bin\Debug\net7.0\ConsoleApp.runtimeconfig.json
+C:\Users\Rafael\Desktop\C# Coding\C# code\ConsoleApp\bin\Debug\net7.0\ConsoleApp.dll
+C:\Users\Rafael\Desktop\C# Coding\C# code\ConsoleApp\bin\Debug\net7.0\ConsoleApp.pdb
+C:\Users\Rafael\Desktop\C# Coding\C# code\ConsoleApp\obj\Debug\net7.0\ConsoleApp.dll
+C:\Users\Rafael\Desktop\C# Coding\C# code\ConsoleApp\obj\Debug\net7.0\refint\ConsoleApp.dll
+C:\Users\Rafael\Desktop\C# Coding\C# code\ConsoleApp\obj\Debug\net7.0\ConsoleApp.pdb
+C:\Users\Rafael\Desktop\C# Coding\C# code\ConsoleApp\obj\Debug\net7.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\C# Coding\C# code\ConsoleApp\obj\Debug\net7.0\ref\ConsoleApp.dll
